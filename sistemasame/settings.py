@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'funcionario',
     'prontuarios',
     'status',
+    'movimentacoes'
 ]
 
 MIDDLEWARE = [
